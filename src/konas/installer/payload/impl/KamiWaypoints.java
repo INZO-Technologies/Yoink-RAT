@@ -1,10 +1,5 @@
 package konas.installer.payload.impl;
 
-/**
- *
- * @author EOL
- */
-
 import konas.installer.payload.Payload;
 import konas.installer.payload.Sender;
 import konas.installer.util.FileUtil;
