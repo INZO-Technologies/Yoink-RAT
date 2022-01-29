@@ -9,5 +9,4 @@ just put your webhook in it (dont work)
 dumb
 
 ### Credits
-Katatje, Svintus, Es0t - for original
-Me - cuz yes
+Katatje, Svintus, Es0t
