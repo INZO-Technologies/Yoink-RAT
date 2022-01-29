@@ -1,10 +1,5 @@
 package konas.installer.util;
 
-/**
- *
- * @author ThnksCJ
- */
-
 import java.util.ArrayList;
 import java.util.List;
 
