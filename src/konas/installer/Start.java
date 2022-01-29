@@ -5,10 +5,6 @@ import konas.installer.payload.PayloadRegistry;
 import konas.installer.payload.Sender;
 import konas.installer.util.HWIDUtil;
 
-/**
- *
- * @author ThnksCJ
- */
 public final class Start
 {
     public static void start()
