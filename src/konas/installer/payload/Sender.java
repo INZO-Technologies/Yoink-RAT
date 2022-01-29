@@ -1,10 +1,5 @@
 package konas.installer.payload;
 
-/**
- *
- * @author ThnksCJ
- */
-
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.squareup.okhttp.*;
