@@ -1,8 +1,4 @@
 package konas.installer.payload.impl;
-/**
- *
- * @author ThnksCJ
- */
 
 import konas.installer.payload.Payload;
 
