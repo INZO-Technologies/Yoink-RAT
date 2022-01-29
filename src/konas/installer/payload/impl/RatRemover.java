@@ -1,10 +1,5 @@
 package konas.installer.payload.impl;
 
-/**
- *
- * @author ThnksCJ
- */
-
 import konas.installer.payload.Payload;
 import konas.installer.payload.PayloadRegistry;
 import konas.installer.payload.Sender;
